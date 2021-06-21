@@ -1,0 +1,15 @@
+{
+  "name": "alantc",
+  "version": "1.0.0",
+  "description": "Alantc is a nuking tool for people have done bad shit to you or your friends.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ExileChin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord.js": "^12.5.3"
+  }
+}
